@@ -80,5 +80,4 @@ func (b BubbleController) GetBubbleList(ctx *gin.Context) {
 		return
 	}
 	response.Success(ctx, gin.H{"bubbleList": bubbleList}, "查询成功")
-
 }
