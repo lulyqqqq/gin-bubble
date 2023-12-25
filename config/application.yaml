@@ -1,0 +1,10 @@
+server:
+  port: 8080
+datasource:
+  host: 139.159.242.146
+  port: 3306
+  database: gin_demo
+  username: DataBase
+  password: nian0209
+  charset: utf8
+  loc: Asia/Shanghai
